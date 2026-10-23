@@ -1,0 +1,87 @@
+asset_id,media_type,width,height,duration_seconds,quality_rating,ai_review_status,suggested_content_use,safe_tags
+vsh_44413a385973cb76,video,1080,1920,18.748333,medium,needs_human_review,about,interior
+vsh_920687aa0b157f93,video,1080,1920,6.956667,medium,needs_human_review,about,interior
+vsh_325e83912aef4c39,video,1920,1080,74.635,medium,needs_human_review,about,interior
+vsh_ff95544a62e70d26,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_3852a97ae4c65bf1,video,1920,1440,2.003333,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_3ef98d6eefb55cd8,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_e85bc5761da880b0,photo,,,,high,needs_human_review,gallery,artwork; wall-art; color; interior
+vsh_578ce37c258cc914,video,1920,1440,2.725,high,needs_human_review,gallery,artwork; wall-art; color; interior
+vsh_0dc3aa51bbcd9ac5,video,1920,1080,9.1,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_3dffe8a431a8567d,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_67bbf653a50d5d3e,video,1920,1440,2.405,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_5c1ce582ce2129fa,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_d40ce11dfd08d8e2,video,1920,1440,2.548333,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_fe22127064796a3a,photo,,,,high,needs_human_review,gallery,artwork; wall-art; color; interior
+vsh_1b225b259d4e0475,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_6cdacb55cd17844a,video,1920,1440,2.09,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_238b980296b00437,video,1920,1080,6.0,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_4b5ced6cfefaa43d,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_c700f906652fc073,video,1920,1440,2.348333,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_276dc7c73152ca83,photo,,,,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_1cf592250ba1f717,video,1920,1080,7.866667,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_9e2c06ff3ccc590f,video,1920,1080,17.425,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_1cf35535d471b77f,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_fbd9b58dfdae825f,video,1920,1440,2.621667,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_962599b08ebcb81b,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_6ea62959d29386cb,video,1920,1440,2.03,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_701c8cc74c80b68c,photo,,,,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_91959ce97dc77bbb,video,1920,1440,2.138333,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_4dba7fa01b5858ea,photo,,,,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_3bb1714d131d0883,photo,,,,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_58bc309f525c9b2e,video,1920,1440,2.026667,medium,needs_human_review,about,interior; signage; symbol; ambience
+vsh_03dddf63a334f82f,video,1920,1080,155.536667,medium,needs_human_review,about,interior
+vsh_a84f2e07fda5cf83,video,1920,1080,27.733333,medium,needs_human_review,about,interior
+vsh_992a0e6ee782ac73,video,1920,1080,6.766667,medium_to_high,needs_human_review,about,interior
+vsh_bad45ae16a33d6f2,video,1920,1080,1.833333,medium,needs_human_review,about,interior
+vsh_51d0873fdc366433,video,1920,1080,206.53,medium,needs_human_review,about,interior
+vsh_003914da4669da0f,video,1920,1080,85.401667,medium,needs_human_review,about,interior
+vsh_ac4cbdd8b4d5235e,video,1920,1080,577.015,medium,needs_human_review,services,interior; ambience
+vsh_10f895b20baa1d84,video,1920,1080,7.533333,medium,needs_human_review,services,objects; bowls; interior
+vsh_8d138162eb42eab9,video,1920,1080,10.34,medium,needs_human_review,services,objects; bowls; interior
+vsh_b0972ee2930e6a92,video,1920,1080,6.336667,medium,needs_human_review,services,objects; bowls; interior
+vsh_e6341cf2bda82d85,video,1920,1080,7.413333,medium,needs_human_review,services,objects; bowls; interior
+vsh_1b4d11d1f9537f96,video,1920,1080,8.706667,medium,needs_human_review,services,objects; bowls; interior
+vsh_e743ef702f4070a6,video,1920,1080,7.166667,medium,needs_human_review,services,interior; ambience
+vsh_77873f73ff6f25af,video,1920,1080,10.473333,medium,needs_human_review,services,interior; ambience
+vsh_030e5242fff701e2,video,1920,1080,160.413333,medium,needs_human_review,about,interior
+vsh_663f4fb0c2762d80,photo,,,,medium,needs_human_review,services,objects; bowls; interior
+vsh_5f7ede2fa45c02a1,video,1920,1440,2.43,medium,needs_human_review,services,objects; bowls; interior
+vsh_6691bf2c3591160d,video,1920,1080,1054.455,medium,needs_human_review,services,interior; ambience
+vsh_d32ac282a869db8a,video,1920,1080,188.508333,medium,needs_human_review,about,interior
+vsh_953eb059ffe168fb,video,1920,1080,144.293333,medium,needs_human_review,about,interior
+vsh_1596501a12546062,photo,,,,unclear,needs_human_review,exclude,interior
+vsh_23284965a31be829,video,1920,1080,19.398333,medium,needs_human_review,about,interior
+vsh_9fad0a729c4fa9bc,video,1080,1920,9.375,medium,needs_human_review,about,interior
+vsh_615ea2adfb07c626,video,1920,1080,87.435,medium_to_high,needs_human_review,about,interior
+vsh_b17d2c86f5b1e741,video,1920,1080,2.866667,low,needs_human_review,unclear,unclear; interior
+vsh_1674f0d8fc7ac310,video,1920,1080,2.423333,low,needs_human_review,unclear,unclear; interior
+vsh_fe9ce7f1641d71d4,video,1920,1080,5.848333,medium,needs_human_review,about,interior
+vsh_38f325f5bacc7446,photo,,,,medium_to_high,needs_human_review,about,interior
+vsh_17e05ff22a1126ed,video,1080,1920,44.33,medium,needs_human_review,about,interior
+vsh_ccb060f83db0a34e,photo,,,,medium_to_high,needs_human_review,about,interior
+vsh_6a682488b7b15ec2,video,1920,1440,2.213333,medium_to_high,needs_human_review,about,interior
+vsh_2ac04fb5e6e1c1f2,video,1920,1080,68.8,medium_to_high,needs_human_review,about,interior
+vsh_55ffbc4619d434dc,video,1920,1080,8.233333,unclear,needs_human_review,exclude,interior
+vsh_1f83cba74d97a2ae,video,1920,1080,126.57,unclear,needs_human_review,exclude,interior
+vsh_a95e3dc19a733184,video,1920,1080,15.051667,unclear,needs_human_review,exclude,
+vsh_41960db3facd146b,video,1920,1080,17.2,unclear,needs_human_review,exclude,
+vsh_fd4ba559cbcd1af3,video,1920,1080,20.566667,unclear,needs_human_review,exclude,
+vsh_5a60521fcd490153,video,1920,1080,21.066667,unclear,needs_human_review,exclude,
+vsh_994e8b3f0c170d72,video,1920,1080,15.736667,unclear,needs_human_review,exclude,
+vsh_4ada0ec21eeab77b,video,1920,1080,10.173333,unclear,needs_human_review,exclude,
+vsh_842c58ba6a64716e,video,1920,1080,7.706667,unclear,needs_human_review,exclude,
+vsh_9bb4b98594040ea0,video,1920,1080,21.666667,unclear,needs_human_review,exclude,interior
+vsh_fedda6232a803427,photo,,,,unclear,needs_human_review,exclude,interior
+vsh_54002a044ad3a544,video,1920,1440,2.701667,unclear,needs_human_review,exclude,interior
+vsh_17ae6f424ac15005,video,1920,1080,5.536667,unclear,needs_human_review,exclude,
+vsh_12bc7392c10e3608,video,1920,1080,15.846667,unclear,needs_human_review,exclude,
+vsh_7d934fbbce899e2e,video,1920,1080,8.038333,unclear,needs_human_review,exclude,
+vsh_a9c7fd64ea67791b,video,1920,1080,2.035,unclear,needs_human_review,exclude,
+vsh_ff4a430d521d9f6d,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_5d34a625e984e7c4,video,1920,1440,2.19,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_4715fc5445cbc1b9,photo,,,,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_2085ad6e985bc29d,video,1920,1440,2.096667,medium_to_high,needs_human_review,gallery,interior; decor; objects; ambience
+vsh_14a7b1424a77876f,video,1920,1080,4.918333,medium_to_high,needs_human_review,about,interior
+vsh_f3ef0dfdce47d283,video,1920,1080,30.855,medium_to_high,needs_human_review,about,interior
+vsh_9f55afba2392c196,video,1920,1080,25.728333,unclear,needs_human_review,exclude,interior
